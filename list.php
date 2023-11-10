@@ -1,5 +1,8 @@
 <?php
 include("header.php");
+
+
+
 ?>
     <!-- Logique de suppression -->
     <?php if (isset($_GET["suppr"])) {
